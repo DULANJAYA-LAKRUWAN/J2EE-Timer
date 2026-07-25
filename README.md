@@ -7,7 +7,7 @@
 ---
 
 ## 📽️ Demo Video
-[![J2EE-Timer Project Demo](https://github.com/chamikathereal/J2EE-Timer/blob/main/J2EE-Timer.png)](https://youtu.be/kAnNUfUK1kY)
+[![J2EE-Timer Project Demo](./J2EE-Timer.png)](https://youtu.be/kAnNUfUK1kY)
 
 ---
 
@@ -109,9 +109,17 @@ J2EE-Timer/
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Student & Course Details
 
-Chamika Gayashan  
-Undergraduate Software Engineer | Sri Lanka  
-Linkedin: @chamikathereal  
-Current date: Saturday, June 21, 2025, 11:47 PM +0530
+**Course**: Birmingham City University BSc (Hons) Software Engineering - Top Up  
+**Unit Name**: Business Component Development II  
+**Unit ID**: JIAT/BCD II  
+**Assignment ID**: JIAT/BCD II/EX/01  
+**Institution**: Java Institute for Advanced Technology  
+## ðŸ§‘â€ðŸ’» Student & Course Details
+
+**Course**: Birmingham City University BSc (Hons) Software Engineering - Top Up  
+**Unit Name**: Business Component Development II  
+**Unit ID**: JIAT/BCD II  
+**Assignment ID**: JIAT/BCD II/EX/01  
+**Institution**: Java Institute for Advanced Technology  
