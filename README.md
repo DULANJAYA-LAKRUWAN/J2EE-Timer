@@ -6,9 +6,9 @@
 
 ---
 
-## 📽️ Demo Video
-[![J2EE-Timer Project Demo](./J2EE-Timer.png)](https://youtu.be/kAnNUfUK1kY)
+## Demo Preview
 
+![J2EE-Timer Preview](./J2EE-Timer.png)
 ---
 
 ## 🗂️ Project Structure
